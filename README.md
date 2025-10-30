@@ -2,7 +2,7 @@
 
 An intelligent productivity analytics app built with **Python**, **SQLite**, **Machine Learning**, and **Streamlit**.  
 It empowers learners to track, visualize, and improve their study habits while using AI to estimate their expected productivity.
- 
+  
 ---
 
 ## Overview
